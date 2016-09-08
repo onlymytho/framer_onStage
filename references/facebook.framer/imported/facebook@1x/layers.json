@@ -1,0 +1,258 @@
+[
+	{
+		"id": 10,
+		"name": "main",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 750,
+			"height": 4928
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 37,
+				"name": "lte",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 4928
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/lte.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 750,
+						"height": 41
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "1478633287"
+			},
+			{
+				"id": 14,
+				"name": "gnb",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 4928
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/gnb.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 750,
+						"height": 129
+					}
+				},
+				"imageType": "png",
+				"children": [
+					{
+						"id": 41,
+						"name": "gnb_search",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 750,
+							"height": 4928
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/gnb_search.png",
+							"frame": {
+								"x": 0,
+								"y": 51,
+								"width": 750,
+								"height": 68
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "1515512510"
+					}
+				],
+				"modification": "2023312114"
+			},
+			{
+				"id": 16,
+				"name": "tag",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 4928
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/tag.png",
+					"frame": {
+						"x": 0,
+						"y": 129,
+						"width": 750,
+						"height": 129
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "851012816"
+			},
+			{
+				"id": 18,
+				"name": "bottom_bar",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 4928
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/bottom_bar.png",
+					"frame": {
+						"x": 0,
+						"y": 1176,
+						"width": 750,
+						"height": 158
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "851012790"
+			},
+			{
+				"id": 25,
+				"name": "container",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 4928
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 30,
+						"name": "movie_mc",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 750,
+							"height": 4928
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/movie_mc.png",
+							"frame": {
+								"x": 8,
+								"y": 3200,
+								"width": 734,
+								"height": 413
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "711306696"
+					},
+					{
+						"id": 27,
+						"name": "container_dummy",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 750,
+							"height": 4928
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/container_dummy.png",
+							"frame": {
+								"x": 0,
+								"y": 258,
+								"width": 750,
+								"height": 4512
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "711306703"
+					},
+					{
+						"id": 23,
+						"name": "container_bg",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 750,
+							"height": 4928
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/container_bg.png",
+							"frame": {
+								"x": 0,
+								"y": 0,
+								"width": 750,
+								"height": 4928
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "753379297"
+					}
+				],
+				"modification": "1322043131"
+			},
+			{
+				"id": 33,
+				"name": "main_stage",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 750,
+					"height": 4928
+				},
+				"maskFrame": null,
+				"image": {
+					"path": "images/main_stage.png",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"width": 750,
+						"height": 1334
+					}
+				},
+				"imageType": "png",
+				"children": [
+					
+				],
+				"modification": "386519112"
+			}
+		],
+		"modification": "684181778"
+	}
+]

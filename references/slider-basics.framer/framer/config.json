@@ -1,0 +1,18 @@
+{
+  "orientation" : 0,
+  "updateDelay" : 0.3,
+  "delay" : 0.3,
+  "contentScale" : 1,
+  "sharedPrototype" : 1,
+  "propertyPanelToggleStates" : {
+
+  },
+  "deviceType" : "fullscreen",
+  "deviceOrientation" : 0,
+  "selectedHand" : "",
+  "device" : "iPhone 5S Space Gray",
+  "foldedCodeRanges" : [
+
+  ],
+  "deviceScale" : 1
+}
