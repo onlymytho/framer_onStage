@@ -221,5 +221,14 @@ time_slider.knob.on Events.DragEnd, ->
 		properties: {scale : 1}
 		curve: "spring(400, 30, 0)"
 
+time_slider.on 'change:scrollX', ->
+	print time_slider.value
+
+
+
+
+
+
+
 
 
